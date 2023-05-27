@@ -1,0 +1,11 @@
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe.config
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\bin\Debug\Buscaminas.pdb
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csproj.AssemblyReference.cache
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Properties.Resources.resources
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.View.FrmBienvenida.resources
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csproj.GenerateResource.cache
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.exe
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.pdb
+F:\PROYECTOS\Practicas de programacion\GitHub\buscaminas\Buscaminas\Buscaminas\obj\Debug\Buscaminas.View.FrmPartida.resources

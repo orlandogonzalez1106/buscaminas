@@ -8,14 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BuscaMinas
+namespace Buscaminas.View
 {
-    public partial class Form1 : Form
+    public partial class FrmJuego : Form
     {
-        public Form1()
+        public FrmJuego()
         {
             InitializeComponent();
         }
-
     }
 }
